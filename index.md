@@ -9,6 +9,7 @@ layout: default
 Hi! My name is Dimitris and I am a Ph.D. candidate at [Chalmers](www.chalmers.se) University of Technology in [Göteborg](https://www.goteborg.com/en/), Sweden!
 
 [LinkedIn](http://www.linkedin.com/in/dpalyvosg)
+[dblp](https://dblp.uni-trier.de/pers/hd/p/Palyvos=Giannas:Dimitris)
 
 ## Research Interests
 
