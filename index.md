@@ -20,6 +20,7 @@ Hi! My name is Dimitris and I am a Ph.D. candidate at [Chalmers](www.chalmers.se
 
 ## Publications
 
+1. D. Palyvos-Giannas, V. Gulisano, and M. Papatriantafilou, “GeneaLog: Fine-grained data streaming provenance in cyber-physical systems,” Parallel Computing, vol. 89, p. 102552, Nov. 2019. DOI: https://doi.org/10.1016/j.parco.2019.102552 [PDF  (valid until 12/19](https://authors.elsevier.com/a/1ZqNmcA5k-XCz)
 1. Dimitris Palyvos-Giannas, Vincenzo Gulisano, and Marina Papatriantafilou. 2019. **Haren: A Framework for Ad-Hoc Thread Scheduling Policies for Data Streaming Applications**. In Proceedings of the 13th ACM International Conference on Distributed and Event-based Systems (DEBS '19). ACM, New York, NY, USA, 19-30. DOI: https://doi.org/10.1145/3328905.3329505 
 2. Dimitris Palyvos-Giannas, Vincenzo Gulisano, and Marina Papatriantafilou. 2018. **GeneaLog: Fine-Grained Data Streaming Provenance at the Edge.** In Proceedings of the 19th International Middleware Conference (Middleware '18). ACM, New York, NY, USA, 227-238. DOI: https://doi.org/10.1145/3274808.3274826 [PDF](https://research.chalmers.se/publication/507847/file/507847_Fulltext.pdf)
 3. Ivan Walulya, Dimitris Palyvos-Giannas, Yiannis Nikolakopoulos, Vincenzo Gulisano, Marina Papatriantafilou, Philippas Tsigas, **Viper: A module for communication-layer determinism and scaling in low-latency stream processing**, Future Generation Computer Systems, Volume 88, November 2018, Pages 297-308 [PDF](https://authors.elsevier.com/c/1XDco,3q5xOZt7)
