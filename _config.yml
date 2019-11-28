@@ -14,4 +14,8 @@ sass:
     style: compressed
     sass_dir: _sass
 
-keep_files: [external/]
+plugins:
+    - jekyll-redirect-from
+
+whitelist:
+    - jekyll-redirect-from
