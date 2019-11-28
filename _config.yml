@@ -13,3 +13,5 @@ footer_text: "Dimitris Palyvos Giannas"
 sass:
     style: compressed
     sass_dir: _sass
+
+keep_files: [external/]
